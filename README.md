@@ -8,3 +8,5 @@ I hope I get this right!!.
 This repository is built step by step in the tutorial
 
 It now includes steps for Github
+I can now pull branches fron GitHub. Let me now push branches to GitHub
+
